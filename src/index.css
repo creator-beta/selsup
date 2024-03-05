@@ -1,0 +1,7 @@
+.fields-wrapper {
+  display: grid;
+  grid-template-columns: 1;
+  grid-template-rows: repeat(4, 1fr);
+
+  row-gap: 30px;
+}
